@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+Welcome to my GitHub
+About me 
+Bachelor in Systems and Digital Media from UFC Fortaleza
+
+I'm Guilherme, a Unity game developer. I'm currently studying javascript and a little database, 
+I also like to carry out graphic design and 3d modeling projects.🎮
+
 <!--
 **gui123sparda/gui123sparda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
