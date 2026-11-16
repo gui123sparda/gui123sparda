@@ -37,7 +37,7 @@ I implemented an open-source engine control unit on a Ford Escort Zetec 1.8 and 
 ## Repository snapshot
 
 <p align="center">
-  <img width="100%" src="assets/repository-charts.svg" alt="Primary languages by repository: Java 5, ShaderLab 3, JavaScript 3, C# 2, PHP 2, Other 6. Push activity: 8 of 23 repositories had a push in the past 90 days.">
+  <img width="100%" src="assets/repository-charts-realistic.svg" alt="Primary languages by repository: Java 5, ShaderLab 3, JavaScript 3, C# 2, PHP 2, Other 6. Push activity: 8 of 23 repositories had a push in the past 90 days.">
 </p>
 
 <sub>Public repos owned by gui123sparda, excluding forks · Nov 16, 2026. Languages count repositories by GitHub’s primary language label. Repositories without a language are included in push activity only.</sub>
