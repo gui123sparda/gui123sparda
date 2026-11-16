@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:10243A,100:137D72&amp;height=190&amp;section=header&amp;text=Guilherme%20Aguiar&amp;fontColor=FFFFFF&amp;fontSize=46&amp;fontAlignY=39&amp;desc=Backend%20%2F%20Game%20Development%20%2F%20Embedded%20Systems&amp;descAlignY=60&amp;descSize=17" alt="Guilherme Aguiar — Backend, Game Development, and Embedded Systems">
+  <img width="100%" src="assets/profile-banner.png" alt="Guilherme Aguiar — Backend, Game Development, and Embedded Systems">
 </p>
 
 I hold a bachelor's degree in **Systems and Digital Media** from the **Federal University of Ceará (UFC)** in Fortaleza, Brazil. I build backend applications with Java and Spring Boot and have experience supporting ERP systems and working with SQL Server. My projects also include game development in Unity and automotive electronics with Speeduino.
@@ -17,7 +17,7 @@ I hold a bachelor's degree in **Systems and Digital Media** from the **Federal U
 I implemented an open-source engine control unit on a Ford Escort Zetec 1.8 and compared its idle stability with that of the factory ECU.
 
 <p align="center">
-  <img src="assets/escort-views.gif" width="620" alt="Ford Escort Mk7 pixel art cycling through side, front, top, and rear views">
+  <img src="assets/escort-views.gif" width="620" alt="Ford Escort Mk7 pixel art cycling through side, front, mirrored side, and rear views">
 </p>
 
 ## Languages and tools
@@ -37,7 +37,7 @@ I implemented an open-source engine control unit on a Ford Escort Zetec 1.8 and 
 ## Repository snapshot
 
 <p align="center">
-  <img width="100%" src="assets/repository-charts-realistic.svg" alt="Primary languages by repository: Java 5, ShaderLab 3, JavaScript 3, C# 2, PHP 2, Other 6. Push activity: 8 of 23 repositories had a push in the past 90 days.">
+  <img width="100%" src="assets/repository-charts.svg" alt="Primary languages by repository: Java 5, ShaderLab 3, JavaScript 3, C# 2, PHP 2, Other 6. Push activity: 8 of 23 repositories had a push in the past 90 days.">
 </p>
 
 <sub>Public repos owned by gui123sparda, excluding forks · Nov 16, 2026. Languages count repositories by GitHub’s primary language label. Repositories without a language are included in push activity only.</sub>
